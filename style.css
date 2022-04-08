@@ -1,0 +1,10 @@
+body {
+    color: #000000;
+    background-color: #61EC7B;
+    }
+    .jumbotron {
+        background-image: url("bacteria_RAYCAT.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        text-align: center;
+      }
